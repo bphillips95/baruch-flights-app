@@ -1,25 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Clone project then run *rails s* and go to localhost:3000 to use app.
 
-Things you may want to cover:
+Simple flight booking App, created entirely with Ruby on Rails. Utilizes Clearnace gem for Admin authorization. 
 
-* Ruby version
+Ability to create passengers and book flights, which are then accessible throught a ticket number.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# 3rd_times_the_charm
